@@ -12,5 +12,3 @@ export default {
   name: 'Secure'
 }
 </script>
-
-<style scoped></style>
